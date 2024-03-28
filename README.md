@@ -1,4 +1,4 @@
-<h1> Hello World </h1>
+<h1> Sample Repo </h1>
 <p>This repository is for practising the GitHub Flow.</p>
 <ol>
   <li>
